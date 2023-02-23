@@ -1,0 +1,34 @@
+<div style="text-align: center;"><a class="button" id="Count_Time">GENERATE DOWNLOAD LINK</a></div><div id="Stop_Timer" target="_blank"><!--Add your content here to show after the timer finish--><p><b>Your file is ready and 100% virus free! Click the Button Below to Download the File.</b></p><div style="text-align: center;"><p><a class="button" href="https://www.cybertechdigitals.one/#?url=mLO0bLF4Gw17v7byW7gkQEJ0QRDsQZgdmEOlnLFyn85gGwF/vEJiAR9FUqNkUCW0O7beD7W7WdgyYgOsnTJWQf9XIfvLQhO0nhheQf9IQRvLbRJgnUvOcEQFOjvZQfl7T8aEDTvJFYXkRgO5TCeYcR5fTZgXbYD5OhK8bYvfRLJuvqXfnTJgQr==">CLICK TO PROCEED</a></p><p></p></div><style>
+
+ Cnt-Timer{font-size:16px;opacity:.8;display:inline-flex;align-items:center}
+
+ Cnt-Timer svg{width:20px; height:20px;}
+
+</style><script>/*<![CDATA[*/
+
+var counter = 20; // Add time here in seconds 
+
+var id,downloadButton=document.getElementById("Stop_Timer"),newElement=document.createElement("p");function startDownload(){this.style.display="none",id=setInterval(function(){counter--,counter<0?(newElement.parentNode.replaceChild(downloadButton,newElement),clearInterval(id)):newElement.innerHTML="<center><strong>Please wait <span>"+counter.toString()+"</span> seconds</strong><p/><Cnt-Timer><svg viewBox='0 0 40 50' x='0px' y='0px'><path d='M25.251,6.461c-10.318,0-18.683,8.365-18.683,18.683h4.068c0-8.071,6.543-14.615,14.615-14.615V6.461z'><animateTransform attributeName='transform' attributeType='xml' dur='0.6s' from='0 25 25' repeatCount='indefinite' to='360 25 25' type='rotate'></animateTransform></path></svg> Generating... Please Wait!</Cnt-Timer></center>"},1e3)}newElement.innerHTML="<span></span>",downloadButton.parentNode.replaceChild(newElement,downloadButton);var clickbtn=document.getElementById("Count_Time");clickbtn.onclick=startDownload;
+
+/*]]>*/ </script> 
+
+
+
+
+
+
+##############################
+
+HOW TO USE
+###############################
+
+Copy the html code above and paste it in the html code of your post, at the location where u want the button to appear.
+
+Replace the link shown below with your custom download link
+ https://www.cybertechdigitals.one/#?url=mLO0bLF4Gw17v7byW7gkQEJ0QRDsQZgdmEOlnLFyn85gGwF/vEJiAR9FUqNkUCW0O7beD7W7WdgyYgOsnTJWQf9XIfvLQhO0nhheQf9IQRvLbRJgnUvOcEQFOjvZQfl7T8aEDTvJFYXkRgO5TCeYcR5fTZgXbYD5OhK8bYvfRLJuvqXfnTJgQr==
+
+Adjust the countdown timer by changing the value "20" in the line var counter = 20; // Add time here in seconds
+
+Save the post and thats all.
+
+Prepared by Blake from cybertech digitals
